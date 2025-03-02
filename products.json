@@ -1,9 +1,1 @@
-{
-    "37083b35-6e8b-44a4-b467-7d8dd0e60a9a": {
-        "id": "37083b35-6e8b-44a4-b467-7d8dd0e60a9a",
-        "name": "Bracelet",
-        "price": 6000,
-        "quantity": 1,
-        "image": "image-url.png"
-    }
-}
+{"2b8087d5-445c-4938-93e9-9920a63fae8f":{"id":"2b8087d5-445c-4938-93e9-9920a63fae8f","name":"water_bottle","price":300,"quantity":100,"image":"image_url.png"}}
